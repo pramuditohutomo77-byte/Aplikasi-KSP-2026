@@ -1,0 +1,6 @@
+{
+  "name": "Penyusun KSP - Kurikulum Satuan Pendidikan 2025",
+  "description": "Aplikasi penyusun Kurikulum Satuan Pendidikan (KSP) standar BSKAP Permendikdasmen No. 13 Tahun 2025 dengan template lengkap, cover elegan, lembar penetapan, tim penyusun, kata pengantar, daftar isi otomatis, BAB I-V terstruktur, pengaturan kertas, margin, dan ekspor PDF/Word.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
